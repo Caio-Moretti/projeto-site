@@ -10,6 +10,6 @@ body {
 main {
     background-color: white;
     width: 500px;
-    margin: middle;
+    margin: auto;
     box-shadow: 3px 3px 5px black;
 }
